@@ -22,7 +22,7 @@ const Main = ({ onPostContent, onSetPostContent }: IMainProps) => {
                     />
                 </div>
                 <div className="flex-1">
-                    <h1 className="text-3xl font-bold text-gray-800 mb-2">Greg Wientjes</h1>
+                    <h1 className="text-3xl font-bold text-gray-800 mb-2">Regor Wientjes</h1>
                     <h2 className="text-2xl font-semibold text-gray-700 mb-4">Wall</h2>
                         
                         {/* Post Input */}
